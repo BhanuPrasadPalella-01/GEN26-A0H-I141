@@ -2,7 +2,7 @@
 
 ## GEN26-A0H-I141
 ### Team Details
-#### **Team Name** <<Shinchan>> <br/>
+#### **Team Name** < Shinchan > <br/>
 #### Team Members
 |         Role    |         👤 Name         |   🎓 Roll Number      |     ⚧️ Gender   |    🏫 Department / Programme   |
 |:---------------:|:------------------------|:----------------------:|:---------------:|:-------------------------------:| 
