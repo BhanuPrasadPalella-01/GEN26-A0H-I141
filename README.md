@@ -14,4 +14,4 @@
 | Member 3 | S V Pavan Kalyan | `CB.AI.U4AID25046` | Male | AIDS | Hosteller(Bhrigu Bhavanam) |
 | Member 4 | V Manasvith Reddy | `CB.AI.U4AAR26059` | Male | AIDS (AARS) | Hosteller(Kashyapa Bhavanam) |
 
-Link for Youtube video https://studio.youtube.com/video/6B6FlzVrxOc/12
+Youtube video link for Presentation https://youtu.be/OaXg3Tcleww
